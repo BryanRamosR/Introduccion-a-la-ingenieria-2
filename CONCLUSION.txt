@@ -1,0 +1,3 @@
+319013007
+En este programa aprendí a desarrollar un poco más la lógica de la programación en el lenguaje C, de igual manera me sirvió de repaso y refuerzo de algunos temas vistos en las clases. Me costo un poco de trabajo entender la asignación ya que era mi primera vez programando algo solo,  pero mientras iba avanzando, las dudas y el porque de las cosas empezaron a desaparecer poco a poco.
+En mi opinión se me hizo un trabajo bastante importante porque nos sirve para ir practicando poco a poco hasta que empecemos a dominar mejor este lenguaje, que seguro nos proporcionara un sin fin de conocimientos importantes para el futuro. 
