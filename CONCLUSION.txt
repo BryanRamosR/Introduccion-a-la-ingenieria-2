@@ -1,3 +1,6 @@
 319013007
-En este programa aprendÌ a desarrollar un poco m·s la lÛgica de la programaciÛn en el lenguaje C, de igual manera me sirviÛ de repaso y refuerzo de algunos temas vistos en las clases. Me costo un poco de trabajo entender la asignaciÛn ya que era mi primera vez programando algo solo,  pero mientras iba avanzando, las dudas y el porque de las cosas empezaron a desaparecer poco a poco.
-En mi opiniÛn se me hizo un trabajo bastante importante porque nos sirve para ir practicando poco a poco hasta que empecemos a dominar mejor este lenguaje, que seguro nos proporcionara un sin fin de conocimientos importantes para el futuro. 
+En este programa aprend√≠ a desarrollar un poco m√°s la l√≥gica de la programaci√≥n en el lenguaje C, de igual manera me sirvi√≥ de repaso y refuerzo de algunos temas vistos en las clases. Me costo un poco de trabajo entender la asignaci√≥n ya que era mi primera vez programando algo solo,  pero mientras iba avanzando, las dudas y el porque de las cosas empezaron a desaparecer poco a poco.
+En mi opini√≥n se me hizo un trabajo bastante importante porque nos sirve para ir practicando poco a poco hasta que empecemos a dominar mejor este lenguaje, que seguro nos proporcionara un sin fin de conocimientos importantes para el futuro. 
+
+
+Comentario de la clase del 6 de Octubre de 2021
